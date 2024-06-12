@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/KpEducation/target/debug/KpEducation: /home/batien/Kp/GitSrc/github.com/khaiphong/KpEducation/src/lib.rs /home/batien/Kp/GitSrc/github.com/khaiphong/KpEducation/src/main.rs
